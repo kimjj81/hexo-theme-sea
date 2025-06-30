@@ -38,7 +38,7 @@ giscus:
   repoid: "100716826"
   category: "General"
   categoryid: 
-  mapping: "pathname" # pathname | url | title
+  mapping: "permalink"
   term: ""
   reactionsenabled: "1"
   emitmetadata: "0"
