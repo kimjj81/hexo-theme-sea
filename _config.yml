@@ -24,8 +24,8 @@ menu:
   #   url: /about/
 
 comment:
-  enable: false
-  type: # waline | giscus
+  enable: true
+  type: giscus
 
 # Waline https://waline.js.org/
 waline:
@@ -34,16 +34,16 @@ waline:
 
 # Giscus https://giscus.app/zh-CN
 giscus:
-  repo:
-  repoid:
-  category:
-  categoryid:
-  mapping:
-  term:
-  reactionsenabled:
-  emitmetadata:
-  inputposition:
-  loading:
+  repo: "kimjj81/hexo.kimjj81.github.io"
+  repoid: "100716826"
+  category: "General"
+  categoryid: 
+  mapping: "pathname" # pathname | url | title
+  term: ""
+  reactionsenabled: "1"
+  emitmetadata: "0"
+  inputposition: "top"
+  loading: "lazy"
 
 search:
   enable: false
