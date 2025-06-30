@@ -36,7 +36,7 @@ waline:
 giscus:
   repo: "kimjj81/hexo.kimjj81.github.io"
   repoid: "100716826"
-  category: "Announcements"
+  category: "General"
   categoryid: 
   mapping: "pathname" # pathname | url | title
   term: ""
