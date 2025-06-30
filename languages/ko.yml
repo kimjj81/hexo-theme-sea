@@ -1,0 +1,27 @@
+home:
+  recommendedPosts: 추천 포스트
+  recentPosts: 최근 포스트
+  allPosts: 모든 포스트
+
+page:
+  contents: 목차
+  categories: 카테고리
+  search: 검색
+  tags: 태그
+  tagcloud: 태그 클라우드
+  archive: 아카이브
+  recent_articles: 최근 글
+  archive_total: 총 %d개의 글!
+  search_dev_tip: 🔍 개발 모드 경고! 검색 결과를 보려면 프로젝트를 한 번 빌드해야 합니다.
+
+theme:
+  auto: 시스템
+  light: 밝음
+  dark: 어두움
+
+footer:
+  home: 홈
+  site_pv: 'PV: %s'
+  site_uv: 'UV: %s'
+  rss: RSS
+  theme_source: 테마 제작자 %s
