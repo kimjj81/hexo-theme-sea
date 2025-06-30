@@ -34,16 +34,16 @@ waline:
 
 # Giscus https://giscus.app/zh-CN
 giscus:
-  repo: "kimjj81/hexo.kimjj81.github.io"
-  repoid: "MDEwOlJlcG9zaXRvcnkxMDA3MTY4MjY"
+  repo: "kimjj81/kimjj81.github.io"
+  repoid: "MDEwOlJlcG9zaXRvcnkxMDA3MTY4MjY="
   category: "General"
   categoryid: "DIC_kwDOBgDRGs4CsOf-"
   mapping: "pathname"
-  term: ""
+  term: "comment_policy"
   reactionsenabled: "1"
   emitmetadata: "0"
   inputposition: "top"
-  loading: "lazy"
+  loading: ""
 
 search:
   enable: false
