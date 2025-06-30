@@ -35,10 +35,10 @@ waline:
 # Giscus https://giscus.app/zh-CN
 giscus:
   repo: "kimjj81/hexo.kimjj81.github.io"
-  repoid: "100716826"
+  repoid: "MDEwOlJlcG9zaXRvcnkxMDA3MTY4MjY"
   category: "General"
-  categoryid: 
-  mapping: "permalink"
+  categoryid: "DIC_kwDOBgDRGs4CsOf-"
+  mapping: "pathname"
   term: ""
   reactionsenabled: "1"
   emitmetadata: "0"
